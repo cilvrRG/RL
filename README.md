@@ -13,7 +13,7 @@
 
   - 9/14: Tutorial on MDPs, Policy Gradient. [**Arthur**]
   - 9/21: Tutorial on Q-Learning, Actor-Critic. [**Sainaa, Ilya**]
-  - 9/28: Tutorial on OpenAI Gym and other software [**??**]
+  - 9/28: Tutorial on OpenAI Gym and Mazebase [**??**]
   - 10/5: Tutorial on Inverse RL, Imitation Learning.
   - 10/12: Trust region policy optimization (TRPO) [**Elman, Ilya**]
 
