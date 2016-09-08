@@ -12,17 +12,18 @@
 ### Tentative Agenda
 
   - 9/14: Tutorial on MDPs, Policy Gradient. [**??**]
-  - 9/21: Tutorial on Q-Learning, Actor-Critic. [**Sainaa?**]
+  - 9/21: Tutorial on Q-Learning, Actor-Critic. [**Sainaa, Ilya**]
   - 9/28: Tutorial on OpenAI Gym and other software [**??**]
   - 10/5: Tutorial on Inverse RL, Imitation Learning.
-  - ...
+  - 10/12: Trust region policy optimization (TRPO) [**Elman, Ilya**]
 
 
 ### Pool of Papers [please fill]
 
-Guided Policy Search
-Value Iteration Networks
-TRPO
+ - Guided Policy Search
+ - Value Iteration Networks
+ - TRPO
+ - Deterministic Policy Gradient 
 
 
 
