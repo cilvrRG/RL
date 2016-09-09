@@ -11,11 +11,12 @@
 
 ### Tentative Agenda
 
-  - 9/14: Tutorial on MDPs, Policy Gradient. [**TBD**]
-  - 9/21: Tutorial on Q-Learning, Actor-Critic. [**Sainaa, Ilya**]
-  - 9/28: Tutorial on OpenAI Gym and Mazebase [**??**]
-  - 10/5: Tutorial on Inverse RL, Imitation Learning.
-  - 10/12: Trust region policy optimization (TRPO) [**Elman, Ilya**]
+  - 9/21: Tutorial on MDPs, Policy Gradient (part 1). [**Keith?**]
+  - 9/28: Tutorial on MDPs, Policy Gradient (part 2). [**Keith?**]
+  - 10/5: Tutorial on Q-Learning, Actor-Critic. [**Sainaa, Ilya**]
+  - 10/12: Tutorial on OpenAI Gym and Mazebase [**??**]
+  - 10/17: Tutorial on Inverse RL, Imitation Learning.
+  - 10/24: Trust region policy optimization (TRPO) [**Elman, Ilya**]
 
 
 ### Pool of Papers [please fill]
