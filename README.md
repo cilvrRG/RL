@@ -11,8 +11,19 @@
 
 ### Tentative Agenda
 
-  - 9/21: Tutorial on MDPs, Policy Gradient (part 1). [**Keith?**]
-  - 9/28: Tutorial on MDPs, Policy Gradient (part 2). [**Keith?**]
+  - 9/21: Tutorial on MDPs, Policy Gradient (part 1). [**Keith Ross**]
+    - Markov Decision Process Paradigm
+    - Discounted and average cost criteria
+    - Model-free Reinforcement Learning Paradigm
+    - Policy Gradient: parameterized policies; policy gradient theorem; Monte Carlo Policy Gradient (REINFORCE)
+    - Using Policy Gradient and deep neural networks to learn the Atari game "pong".
+
+  - 9/28: Tutorial on MDPs, Policy Gradient (part 2). [**Keith**]
+    - Dynamic Programming equations for MDPs
+    - Policy iteration 
+    - Value iteration
+    - Monte Carlo methods for RL 
+    - Q-learning for RL 
   - 10/5: Tutorial on Q-Learning, Actor-Critic. [**Sainaa, Ilya**]
   - 10/12: Tutorial on OpenAI Gym and Mazebase [**??**]
   - 10/17: Tutorial on Inverse RL, Imitation Learning.
