@@ -8,6 +8,8 @@
   - Guest speakers. We will try to invite RL experts (e.g. G. Tesauro) with some frequency.
   - Other communication channels ( Facebook groups?, Slack? ) [TBD].
   
+###Organization
+The RG is initially organized by J.Bruna, K. Cho, S. Sukhbaatar, K. Ross, D. Sontag. 
 
 ### Tentative Agenda
 
