@@ -9,7 +9,7 @@
   - Other communication channels ( Facebook groups?, Slack? ) [TBD].
   
 ###Organization
-The RG is initially organized by J.Bruna, K. Cho, S. Sukhbaatar, K. Ross, D. Sontag. 
+The RG is initially organized by J.Bruna, K. Cho, S. Sukhbaatar, K. Ross, D. Sontag, with help from the rest of the CILVR group.
 
 ### Tentative Agenda
 
