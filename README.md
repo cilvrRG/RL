@@ -29,7 +29,7 @@ The RG is initially organized by J.Bruna, K. Cho, S. Sukhbaatar, K. Ross, D. Son
     
   - 10/5: Actor-Critic. [**Sainaa, Ilya**]
   - 10/12: Tutorial on OpenAI Gym and Mazebase [**??**]
-  - 10/17: Tutorial on Inverse RL, Imitation Learning.
+  - 10/17: Tutorial on Inverse RL, Imitation Learning [**Arthur?**]
   - 10/24: Bandits [**Joan**]
   - 10/31: Trust region policy optimization (TRPO) [**Elman, Ilya**]
 
