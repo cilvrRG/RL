@@ -28,7 +28,7 @@ The RG is initially organized by J.Bruna, K. Cho, S. Sukhbaatar, K. Ross, D. Son
     - Q-learning for RL 
     
   - 10/5: Actor-Critic. [**Sainaa, Ilya**]
-  - 10/12: Tutorial on OpenAI Gym and Mazebase [**??**]
+  - 10/12: Tutorial on OpenAI Gym and Mazebase. Also, Twitter's new [twrl](https://github.com/twitter/torch-twrl)  [**??**]
   - 10/17: Tutorial on Inverse RL, Imitation Learning [**Arthur?**]
   - 10/24: Bandits [**Joan**]
   - 10/31: Trust region policy optimization (TRPO) [**Elman, Ilya**]
