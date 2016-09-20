@@ -13,7 +13,7 @@ The RG is initially organized by J.Bruna, K. Cho, S. Sukhbaatar, K. Ross, D. Son
 
 ### Tentative Agenda
 
-  - 9/21: Tutorial on MDPs, Policy Gradient (part 1). [**Keith Ross**]
+  - 9/21: [Tutorial on MDPs, Policy Gradient (part 1)](MDP_RL_Lecture1.pdf). [**Keith Ross**]
     - Markov Decision Process Paradigm
     - Discounted and average cost criteria
     - Model-free Reinforcement Learning Paradigm
