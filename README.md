@@ -20,7 +20,7 @@ The RG is initially organized by J.Bruna, K. Cho, S. Sukhbaatar, K. Ross, D. Son
     - Policy Gradient: parameterized policies; policy gradient theorem; Monte Carlo Policy Gradient (REINFORCE)
     - Using Policy Gradient and deep neural networks to learn the Atari game "pong".
 
-  - 9/28: Tutorial on MDPs, Policy Gradient (part 2). [**Keith**]
+  - 9/28: [Tutorial on MDPs, Policy Gradient (part 2)](MDP_RL_Lecture2.pdf). [**Keith**]
     - Dynamic Programming equations for MDPs
     - Policy iteration 
     - Value iteration
