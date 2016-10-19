@@ -47,8 +47,9 @@ The RG is initially organized by J.Bruna, K. Cho, S. Sukhbaatar, K. Ross, D. Son
 
  - Guided Policy Search
  - Value Iteration Networks
- - TRPO
+ - TRPO [Elman, early November]
  - Deterministic Policy Gradient 
+ - Review of recent hierarchical reinforcement learning papers [Sainaa]
 
 
 
