@@ -36,6 +36,7 @@ The RG is initially organized by J.Bruna, K. Cho, S. Sukhbaatar, K. Ross, D. Son
       - [Off-policy actor critic](https://webdocs.cs.ualberta.ca/~sutton/papers/Degris-OffPAC-ICML-2012.pdf)
        
   - 10/12: Tutorial on OpenAI Gym and Mazebase. Also, Twitter's new [twrl](https://github.com/twitter/torch-twrl)  [**??**]
+    - MazeBase: https://github.com/facebook/MazeBase
   - 10/17: Tutorial on Inverse RL, Imitation Learning [**Arthur?**]
   - 10/24: Bandits [**Joan**]
   - 10/31: Trust region policy optimization (TRPO) [**Elman, Ilya**]
