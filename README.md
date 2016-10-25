@@ -27,7 +27,7 @@ The RG is initially organized by J.Bruna, K. Cho, S. Sukhbaatar, K. Ross, D. Son
     - Monte Carlo methods for RL 
     - Q-learning for RL 
     
-  - 10/5: Actor-Critic. [**Martin**]
+  - 10/5 and 10/12: Actor-Critic. [**Martin**]
     - Deterministic Policy Gradient
     - Off-Policy variants
     - Relevant Papers:
@@ -35,10 +35,9 @@ The RG is initially organized by J.Bruna, K. Cho, S. Sukhbaatar, K. Ross, D. Son
       - [Deterministic Policy Gradients](http://jmlr.org/proceedings/papers/v32/silver14.pdf)
       - [Off-policy actor critic](https://webdocs.cs.ualberta.ca/~sutton/papers/Degris-OffPAC-ICML-2012.pdf)
        
-  - 10/12: Tutorial on OpenAI Gym and Mazebase. Also, Twitter's new [twrl](https://github.com/twitter/torch-twrl)  [**??**]
+  - 10/19: Tutorial on OpenAI Gym and Mazebase. Also, Twitter's new [twrl](https://github.com/twitter/torch-twrl)  [**Sainaa and Ilya**]
     - MazeBase: https://github.com/facebook/MazeBase
-  - 10/17: Tutorial on Inverse RL, Imitation Learning [**Arthur?**]
-  - 10/24: Bandits [**Joan**]
+  - 10/26: [Apprenticeship Learning via Inverse Reinforcement Learning](http://ai.stanford.edu/~ang/papers/icml04-apprentice.pdf) [other paper](https://arxiv.org/abs/1605.08478) [**Arthur**]
   - 10/31: Trust region policy optimization (TRPO) [**Elman, Ilya**]
 
 
