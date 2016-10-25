@@ -37,7 +37,7 @@ The RG is initially organized by J.Bruna, K. Cho, S. Sukhbaatar, K. Ross, D. Son
        
   - 10/19: Tutorial on OpenAI Gym and Mazebase. Also, Twitter's new [twrl](https://github.com/twitter/torch-twrl)  [**Sainaa and Ilya**]
     - MazeBase: https://github.com/facebook/MazeBase
-  - 10/26: [Apprenticeship Learning via Inverse Reinforcement Learning](http://ai.stanford.edu/~ang/papers/icml04-apprentice.pdf) [other paper](https://arxiv.org/abs/1605.08478) [**Arthur**]
+  - 10/26: [Apprenticeship Learning via Inverse Reinforcement Learning](http://ai.stanford.edu/~ang/papers/icml04-apprentice.pdf) and  [Model-Free Imitation Learning with Policy Optimization](https://arxiv.org/abs/1605.08478) [**Arthur**]
   - 10/31: Trust region policy optimization (TRPO) [**Elman, Ilya**]
 
 
