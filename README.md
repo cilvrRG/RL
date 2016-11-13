@@ -48,7 +48,6 @@ The RG is initially organized by J.Bruna, K. Cho, S. Sukhbaatar, K. Ross, D. Son
  - Guided Policy Search
  - Value Iteration Networks
  - TRPO [Elman, early November]
- - Deterministic Policy Gradient 
  - Review of recent hierarchical reinforcement learning papers [Sainaa]
  - Intrinsically Motivated Reinforcement Learning [Martin?]:
    - [Intrinsically Motivated Reinforcement Learning](https://web.eecs.umich.edu/~baveja/Papers/FinalNIPSIMRL.pdf)
@@ -56,5 +55,12 @@ The RG is initially organized by J.Bruna, K. Cho, S. Sukhbaatar, K. Ross, D. Son
    - [Bayesian Surprise Attracts Human Attention](https://papers.nips.cc/paper/2822-bayesian-surprise-attracts-human-attention.pdf)
    - [Variational Information Maximizing Exploration](https://arxiv.org/abs/1605.09674)
    - [Unifying Count-Based Exploration and Intrinsic Motivation](https://arxiv.org/pdf/1606.01868v2.pdf)
-
-
+ - High dimensional action spaces:
+   - [Reinforcement Learning with Factored States and Actions](http://www.jmlr.org/papers/volume5/sallans04a/sallans04a.pdf)
+   - [Deep Reinforcement Learning in Large Discrete Action Spaces](https://arxiv.org/pdf/1512.07679.pdf)
+   - [Learning Multiagent Communication with Backpropagation](https://arxiv.org/pdf/1605.07736.pdf)
+ - Stability in RL (these 4 papers shouldn't take more than 1 or 2 lectures):
+   - [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602)
+   - [Human-level control through deep reinforcement learning](http://www.nature.com/nature/journal/v518/n7540/full/nature14236.html)
+   - [Double Q-learning](http://papers.nips.cc/paper/3964-double-q-learning.pdf). Also consider reading about [the optimizer's curse](https://faculty.fuqua.duke.edu/~jes9/bio/Optimizers_Curse.pdf) to make the reading simpler.
+   - [Prioritized Experience Replay](https://arxiv.org/abs/1511.05952)
