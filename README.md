@@ -42,6 +42,7 @@ The RG is initially organized by J.Bruna, K. Cho, S. Sukhbaatar, K. Ross, D. Son
 
 
 
+
 ### Pool of Papers [please fill]
 
  - Guided Policy Search
@@ -49,9 +50,11 @@ The RG is initially organized by J.Bruna, K. Cho, S. Sukhbaatar, K. Ross, D. Son
  - TRPO [Elman, early November]
  - Deterministic Policy Gradient 
  - Review of recent hierarchical reinforcement learning papers [Sainaa]
-
-
-
-
+ - Intrinsically Motivated Reinforcement Learning [Martin?]:
+   - [Intrinsically Motivated Reinforcement Learning](https://web.eecs.umich.edu/~baveja/Papers/FinalNIPSIMRL.pdf)
+   - [Variational Information Maximisation for Intrinsically Motivated Reinforcement Learning](https://arxiv.org/pdf/1509.08731v1.pdf)
+   - [Bayesian Surprise Attracts Human Attention](https://papers.nips.cc/paper/2822-bayesian-surprise-attracts-human-attention.pdf)
+   - [Variational Information Maximizing Exploration](https://arxiv.org/abs/1605.09674)
+   - [Unifying Count-Based Exploration and Intrinsic Motivation](https://arxiv.org/pdf/1606.01868v2.pdf)
 
 
